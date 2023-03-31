@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+   <head>
+       <title>apex legends</title>
+   </head>
+   <body>
+      <h1 style="color:black;background-color:white;""font-family:Times New Roman;""font-size:40px;"><em>second page</em></h1>
+      <h1 style="color:black;background-color:white;""font-family:Times New Roman;""font-size:40px;">seasons</h1>
+      <p style="color:black;background-color:white;""font-family:Times New Roman;""font-size:40px;">Each new season is intended to bring with it the release of a new playable character, usually new weapons and purchasable cosmetic items.[10]
+
+The game's first season started on March 19, 2019. Associated with seasons are time-limited battle passes that reward players with new cosmetic items, should they complete in-game challenges during the season.[11][12][13] Alongside new cosmetic items, seasons can also bring changes to the map and additional gameplay elements.[14]</p>
+      <h2 style="color:black;background-color:white;""font-family:Times New Roman;""font-size:40px;">development</h2>
+      <p style="color:black;background-color:white;""font-family:Times New Roman;""font-size:40px;">eveloper Respawn Entertainment had previously developed Titanfall (2014) and its sequel Titanfall 2 (2016), both of which were published by Electronic Arts (EA) who eventually acquired Respawn Entertainment in 2017.[70]
+
+According to design director Mackey McCandlish, initial design on Apex Legends started before Titanfall 2 had shipped in 2016 and as of 2018 the entire Titanfall team at Respawn Entertainment was working on the project;[71] however, executive producer Drew McCoy stated that work on the game did not begin until the spring of 2017. He also confirmed that the game had approximately 115 developers working on it, making it the studio's most labor-intensive project. Titanfall 2, by way of comparison, had around 85 developers.[72]</p>  
+   </body>
+</html>
